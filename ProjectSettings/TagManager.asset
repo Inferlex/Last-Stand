@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Map
+  - PlayerUnit
+  - PlayerBuilding
+  - Enemy
+  - Construction
+  - Menu
+  - Revealer
+  - Resource
+  - GeneratorRadius
+  - BuildingArea
+  - Minimap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - background
+  - decorations
+  - effects
+  - units
+  - selection
+  - obstacle
+  - Minimap
+  - Resources
+  - Fog
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3996498785
+    locked: 0
+  - name: decoration
+    uniqueID: 1607961487
+    locked: 0
+  - name: selection
+    uniqueID: 3572080289
+    locked: 0
+  - name: units
+    uniqueID: 3354358701
+    locked: 0
+  - name: effects
+    uniqueID: 1709738637
+    locked: 0
+  - name: fog
+    uniqueID: 1729364263
+    locked: 0
+  - name: UI
+    uniqueID: 1079878185
+    locked: 0

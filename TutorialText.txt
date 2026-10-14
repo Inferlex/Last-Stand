@@ -1,0 +1,47 @@
+Welcome to The Last Stand. This game is about surviving more and more difficult waves of enemies using your strategic thinking.
+With this tutorial, you will learn step by step how to play and make you accustomed to the controls.
+As you may have noticed, you start with a Base and a hero, who is in this case, a Commander.
+Lose all your Bases and you lose the game, so watch out!
++Lets start with the basics. Left click on your hero to select him. You can also select him with a button in the botton left corner or by pressing 'H'
+Excellent!.
++To move your selected units, right click anywhere on the screen (thats not obstructed with something like buildings).
+Excellent!
++Now, lets try something different. Left click on your building.
+Excellent!
+As you can see, in the bottom right corner are buttons. When you click on the Base, buttons at the bottom right corner are changed. You can use those buttons to make units.
++Each unit costs energy (and sometimes even crystals, we will talk about it later). Why wont you make some units? Just press the buttons, choose any unit, lets make atleast three.
+Excellent!
+Each unit is quite different. The drones are fast and cheap, but fragile. Their power lies in their ability to repair buildings
+Initiate are a bit slower than drones, but will take a more beating and have bigger damage.
+Templars are slow and dont have a ranged attack, but they are heavily armored and their attacks ignore defense.
+Learn their powers and used them to your advantage.
++Now, lets select more units at the same time. Hold you left mouse button and select your units (you can also hold left shift when selecting units to add them to your list). Again, select atleast three.
+Excellent!
+When you have more units selected, its good to make a group. This will make it easier to control lots of units.
++First, select some units and press left shift and number 1-9 at the same time. For now, lets just use number 1
+Excellent!
+Then, you can access them with just a press of a number 1-9.
+Lets talk about building. You dont need someone to build for you. Buildings are built automatically the moment they are put on the map
+As said before, your most important building is the Base. One of the reasons is that you can only build around the base.
++To generate energy, you can build the Generator. Lets build one now. Just press a corresponding button at the bottom right corner or press 'G'.
+Excellent!
+Building Generators is a bit different from other buildings. You cannot build more Generators close to each other.
++Lets build another Generator now!
+Excellent!
+Refinery generates crystals used for more advanced buildings, units and upgrades.
++Unfortunately, they can be only built on specified location. See that teal puddle thing? Build it there!  Again, use button or press 'R'.
+Excellent!
+Now, one thing to know is that Generators and Refineries can degrade over time, decreasing amount they generate, so keep an eye out for that.
+Finally, lets talk about combat.
+Enemies can only be seen when they are close to you, so watch out for that.
+Your units will automatically attack enemies when they are in vicinity.
+Or you can just right click enemies when you have units selected.
++Look! an enemy is attacking you! Kill it!
+Excellent!
+Every hero has three unique abilites. Your hero, Commander, has Battle cry, Stun grenade and Aura of victory
+Battle cry will increase nearby friendly units damage for limited time. Whenever buffed unit kills the enemy, it counts as if hero killed it, so use it frequently.
+Stun grenade will slow down and decreases damage of enemy units in the area for a time.
+Your ultimate abilty, Aura of Victory, makes your units around you invincible for a time!
++Lets use your ability Battle cry! Select your hero and press corresponding button on the bottom right corner or press 'Q'.
+Excellent!
+That concludes the tutorial. You will now face a small wave of enemies, so try to defeat them. Good luck!
